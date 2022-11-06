@@ -1,5 +1,5 @@
 # Power-BI
-1- COVID CASES time series
+1. COVID CASES time series
 Creating nested and spiral chart with <a href="https://charticulator.com/app/index.html" target="_blank"> charticulator!</a> and imported the chart template to Power BI.
 Link to Power BI report:
 <a href="https://app.powerbi.com/reportEmbed?reportId=34196da4-6745-4caa-9ada-98dec6f40c96&autoAuth=true&ctid=e8bbe864-f72e-4c9d-8ff2-4f83f41986e2" target="_blank"> Covid Cases nested and spiral chart!</a>
