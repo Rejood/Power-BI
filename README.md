@@ -14,5 +14,4 @@ Link to my Power BI report:
 Link to my Power BI report:
 <a href="https://app.powerbi.com/links/OCJC_Uqc_h?ctid=e8bbe864-f72e-4c9d-8ff2-4f83f41986e2&pbi_source=linkShare" target="_blank"> Time Intelligence!</a>
 
-<img src ="https://user-images.githubusercontent.com/47695192/201202878-107a2e62-bdce-44ed-98d4-382f914b366e.JPG" width="800" height="500" >
-
+<img src ="https://user-images.githubusercontent.com/47695192/201205896-46cc218d-b99a-4ddb-9515-047561278dec.JPG" width="800" height="500" >
