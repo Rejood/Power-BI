@@ -7,7 +7,7 @@ Link to my Power BI report:
 
 <img src ="https://user-images.githubusercontent.com/47695192/201205896-46cc218d-b99a-4ddb-9515-047561278dec.JPG" width="800" height="500" >
 
-## NCAA athletic department expenses and revenues by year
+## NCAA Athletic Department Expenses and Revenues by Year
 Creating charts using switch() function to switch between measurements and format colors based on selected measures.
 
 Link to my Power BI report:
