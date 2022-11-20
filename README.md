@@ -2,7 +2,7 @@
 
 ## Year-Over-Year Median Housing Price Trend: Connecticut and National
 
-Link to my Power BI report:<a href="https://app.powerbi.com/reportEmbed?reportId=9f37c415-a7e5-4025-a4ef-12b28556079e&autoAuth=true&ctid=e8bbe864-f72e-4c9d-8ff2-4f83f41986e2" target="_blank"> Time Intelligence!</a>
+Link to my Power BI report:<a href="https://app.powerbi.com/view?r=eyJrIjoiMWQ2M2NjZWItNmVmNS00MjA2LTlkMTQtNTgzNzM4MDVlZmIxIiwidCI6ImNhZjA3YjQ0LTkxNTktNDFiOC1iZGYzLTkwYzg5YzYyY2Q5MCIsImMiOjl9&pageName=ReportSection"> Time Intelligence!</a>
 
 <img src ="https://user-images.githubusercontent.com/47695192/201205896-46cc218d-b99a-4ddb-9515-047561278dec.JPG" width="800" height="500" >
 
