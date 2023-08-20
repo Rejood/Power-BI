@@ -16,7 +16,7 @@ Link to my Power BI report:
 
 
 ## 3- Covid Cases Time Series
-Creating nested and spiral chart with <a href="https://charticulator.com/app/index.html" target="_blank"> charticulator</a> and imported the chart template to     Power BI.
+Creating a nested and spiral chart with <a href="https://charticulator.com/app/index.html" target="_blank"> charticulator</a> and imported the chart template to     Power BI.
 
 Link to my Power BI report:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWM1YThjMzktZTA0OS00MjM4LWI2NWYtYWFlZDIzM2VhZWIzIiwidCI6ImNhZjA3YjQ0LTkxNTktNDFiOC1iZGYzLTkwYzg5YzYyY2Q5MCIsImMiOjl9" target="_blank"> Covid Cases nested and spiral chart!</a>
